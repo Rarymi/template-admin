@@ -1,0 +1,40 @@
+{
+  "app": {
+    "login": {
+      "title": {
+        "login": "Entre com sua conta",
+        "register": "Cadastre-se"
+      },
+      "light": "Claro"
+    },
+    "theme": {
+      "dark": "Escuro",
+      "light": "Claro"
+    },
+    "title": {
+      "home": "Página Inicial",
+      "notification": "Notificações",
+      "profile": "Perfil do Usuário",
+      "settings": "Configurações"
+    },
+    "subtitle": {
+      "home": "Template Administrativo",
+      "notification": "Gerenciar Notificações",
+      "profile": "Administre sua configurações de usuário",
+      "settings": "Ajustes e Configurações"
+    },
+    "content": {
+      "home": "Conteúdo",
+      "notification": "Conteúdo",
+      "profile": "Conteúdo",
+      "settings": "Conteúdo"
+    },
+    "sidebar": {
+      "home": "Início",
+      "notification": "Notificações",
+      "profile": "Perfil",
+      "settings": "Configurações",
+      "logout": "Sair"
+    }
+  }
+}

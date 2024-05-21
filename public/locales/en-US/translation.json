@@ -1,0 +1,33 @@
+{
+  "app": {
+    "theme": {
+      "dark": "Dark",
+      "light": "Light"
+    },
+    "title": {
+      "home": "Home Page",
+      "notification": "Notifications",
+      "profile": "User Profile",
+      "settings": "Settings"
+    },
+    "subtitle": {
+      "home": "Admin Template",
+      "notification": "Manage Notifications",
+      "profile": "Manage your user settings",
+      "settings": "Adjustments and Settings"
+    },
+    "content": {
+      "home": "Content",
+      "notification": "Content",
+      "profile": "Content",
+      "settings": "Content"
+    },
+    "sidebar": {
+      "home": "Home",
+      "notification": "Notifications",
+      "profile": "Profile",
+      "settings": "Settings",
+      "logout": "Logout"
+    }
+  }
+}
